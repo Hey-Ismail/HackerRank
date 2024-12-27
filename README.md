@@ -1,5 +1,7 @@
-#author - Ismail Hossain Fahim
-created - 27/12/2024
+# Author
+
+**Ismail Hossain Fahim**  
+**Created:** 27/12/2024
 
 # C++ HackerRank Challenges
 
@@ -43,11 +45,13 @@ Each folder contains solutions to problems from the respective category, with fi
 
 ## Contributing
 
-Feel free to open an issue or submit a pull request if you have suggestions for improvements or additional solutions.
+Contributions are welcome! If you have suggestions for improvements or additional solutions, feel free to open an issue or submit a pull request.
 
 ## Acknowledgements
 
-Thanks to [HackerRank](https://www.hackerrank.com/) for providing these challenges and helping programmers improve their skills!
+A big thanks to [HackerRank](https://www.hackerrank.com/) for providing these challenges and helping programmers improve their skills!
 
-My HackerRank profile -->https://www.hackerrank.com/profile/heythereitsfahim
-username -->@heythereitsfahim
+## Links
+
+- **HackerRank Profile:** [heythereitsfahim](https://www.hackerrank.com/profile/heythereitsfahim)
+- **Username:** @heythereitsfahim
